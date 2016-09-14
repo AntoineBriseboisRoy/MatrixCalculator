@@ -1,0 +1,2 @@
+C:\Users\antoine\Desktop\SamuelDucharme_AntoineBriseboisRoy_Calculator\Matrix\obj\x86\Debug\Matrix.exe
+C:\Users\antoine\Desktop\SamuelDucharme_AntoineBriseboisRoy_Calculator\Matrix\obj\x86\Debug\Matrix.pdb

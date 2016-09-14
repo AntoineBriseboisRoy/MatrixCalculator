@@ -1,0 +1,9 @@
+1;Frozen;LightSkyBlue
+2;Link;PaleGreen
+3;Pikachu;Yellow
+4;Hatsune Miku;Azure
+5;Donkey Kong;SandyBrown
+6;Pikmin;Lavender
+7;Shrek;YellowGreen
+8;Canada;PaleVioletRed
+9;Marth;AliceBlue
